@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\bin\Debug\net8.0\shafiq.exe
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\bin\Debug\net8.0\shafiq.deps.json
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\bin\Debug\net8.0\shafiq.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\bin\Debug\net8.0\shafiq.dll
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\bin\Debug\net8.0\shafiq.pdb
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\shafiq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\shafiq.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\shafiq.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\shafiq.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\shafiq.dll
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\refint\shafiq.dll
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\shafiq.pdb
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\shafiq.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\shafiq\shafiq\obj\Debug\net8.0\ref\shafiq.dll
